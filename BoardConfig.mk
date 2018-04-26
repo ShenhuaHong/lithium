@@ -18,6 +18,9 @@
 
 DEVICE_PATH := device/xiaomi/lithium
 
+#AOSP
+QCOM_BOARD_PLATFORMS := msm8996
+
 # Assert
 TARGET_OTA_ASSERT_DEVICE := lithium
 
